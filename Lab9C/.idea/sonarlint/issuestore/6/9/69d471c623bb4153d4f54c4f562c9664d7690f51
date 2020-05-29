@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8‡÷ÍÆ™.
+I
+java:S1612",Replace this lambda with a method reference.(—Ì¾8ƒ¨Ğß™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(õÈºÌùÿÿÿÿ8ÏÌÓß™.
+N
+java:S1612",Replace this lambda with a method reference.(õÈºÌùÿÿÿÿ8ÏÌÓß™.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—Ì¾8ƒ¨Ğß™.
+G
+java:S1068"*Remove this unused "logger" private field.(®–º8œŞëÂ™.

@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™Ô•Ôùÿÿÿÿ8‰¯Žã›.
+I
+java:S1612",Replace this lambda with a method reference.(¾»Àñ8‰¯Žã›.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(é´ÂÃùÿÿÿÿ8‰¯Žã›.
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8‰¯Žã›.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Á„§‹þÿÿÿÿ8‰¯Žã›.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Äüò”ûÿÿÿÿ8‰¯Žã›.

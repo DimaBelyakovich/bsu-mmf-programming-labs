@@ -1,0 +1,18 @@
+
+U	java:S106."9Replace this use of System.out or System.err by a logger.(şŠÏ8®¥­’’.
+O
+java:S1199@"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8®¥­’’.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(›Ç¦œúÿÿÿÿ8Ãƒ’’.
+O
+java:S1199;"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8®¥­’’.
+^
+java:S3457$"AFormat specifiers should be used instead of string concatenation.(¶öŞ8Óü ›—.
+T
+java:S2629$"7Use the built-in formatting to construct this argument.(¶öŞ8Óü ›—.
+O
+java:S11993"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8®¥­’’.
+>	java:S1312""Add a default case to this switch.(¨ÕÉ8®¥­’’.
+W
+java:S1119,";Refactor the code to remove this label and the need for it.(ÏËÕ48®¥­’’.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¯â·ƒ8®¥­’’.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ÌºÕÂ8®¥­’’.

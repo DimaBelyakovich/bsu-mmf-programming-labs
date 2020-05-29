@@ -1,0 +1,24 @@
+
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¢ˆê8Àå­š’.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(„Ÿêªşÿÿÿÿ8Àå­š’.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(É–€ùÿÿÿÿ8Àå­š’.
+O
+java:S1199"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8Àå­š’.
+O
+java:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8Àå­š’.
+J
+java:S1199%"-Extract this nested code block into a method.(ÎŞèº8Àå­š’.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(²Êæûÿÿÿÿ8Àå­š’.
+]
+java:S1119";Refactor the code to remove this label and the need for it.(Ó©øıüÿÿÿÿ8ÇÁ­š’.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(²Êæûÿÿÿÿ8Àå­š’.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(„Ÿêªşÿÿÿÿ8Àå­š’.
+O
+java:S1199"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8Àå­š’.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯¾Œ®8Àå­š’.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¹§û8˜·˜š’.
+J
+java:S1199+"-Extract this nested code block into a method.(Ó‚ï8Àå­š’.
+J
+java:S11994"-Extract this nested code block into a method.(îÒ«Â8Àå­š’.

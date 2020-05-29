@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Íä®€8·ğ¥¶’.
+X
+java:S1119}";Refactor the code to remove this label and the need for it.(™ÏŸ¹8·ğ¥¶’.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Í¸Â8­÷­Â–.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(‚Ë³8Üàıµ’.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(áİù8·ğ¥¶’.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(•°¬ñûÿÿÿÿ8Üàıµ’.

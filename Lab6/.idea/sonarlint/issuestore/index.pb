@@ -1,0 +1,35 @@
+
+D
+src/by/bsu/Main.java,8/b/8bf59ea5c448fdb221649a66e3027e703f48d6f8
+\
+,src/by/bsu/entities/AbstractShip/Engine.java,0/3/03732202d336bb44dac2a9d7766f4bb3e9bf87da
+M
+src/by/bsu/entities/Port.java,c/6/c6f75b5d3b5c284838481995a565863598c972e3
+[
++src/by/bsu/entities/AbstractShip/IShip.java,9/0/90bdb4c4ddd21840c06a2caac358286e971d2937
+b
+2src/by/bsu/entities/AbstractShip/AbstractShip.java,4/5/45b727dd969085d4bc5347f976b9513fe987a618
+S
+#src/by/bsu/services/GenerateId.java,d/c/dc5b198c81f4e3982fc1ecc804f5e3f6979eb02c
+W
+'src/by/bsu/entities/cargoShip/Item.java,a/b/ab7f25bc5ed4c56a1f8745d15dec980981455c9a
+[
++src/by/bsu/entities/abstractShip/IShip.java,4/4/44aeba62abfbfd02b5c080d57a543b653cfd2901
+b
+2src/by/bsu/entities/abstractShip/AbstractShip.java,e/f/ef4144972bad533d4be72a01ee0fd4871ce29303
+\
+,src/by/bsu/entities/cargoShip/CargoShip.java,7/2/726621f2bd46daeb3f0b220cc7d5902b6b169fdf
+O
+src/by/bsu/entities/Tanker.java,2/a/2a661fc25f3692a1c4f1946b63e2b94bd9b1d93f
+\
+,src/by/bsu/entities/abstractShip/Engine.java,5/7/57a3d8620d52364f9d077db36db1b523411a4c34
+b
+2src/by/bsu/services/builders/CargoShipBuilder.java,3/f/3fda226f63816b632138103759d06f92e8a6c743
+_
+/src/by/bsu/services/builders/TankerBuilder.java,e/9/e97f4f42df70b876388e381df1388d9384f34dbc
+R
+"src/by/bsu/view/TankerManager.java,d/f/dfa892efa32a2e0ccbeef8360fe845c2f1f882e0
+U
+%src/by/bsu/view/CargoShipManager.java,6/2/62ba84ef27bb30f32eac66b5c9fed66e7350ba30
+P
+ src/by/bsu/view/MainManager.java,b/f/bf7f156407db993291f6278a860636011232355d

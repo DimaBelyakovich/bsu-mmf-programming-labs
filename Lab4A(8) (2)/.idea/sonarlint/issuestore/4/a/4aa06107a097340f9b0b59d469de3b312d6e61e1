@@ -1,0 +1,15 @@
+
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‚Á¬‰ıÿÿÿÿ8¥ºÿ¦—.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(‹Ò­ñ8ÙÙ™§—.
+X
+java:S1119";Refactor the code to remove this label and the need for it.(™ÏŸ¹8»¼²¢—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š‘ƒÿşÿÿÿÿ8ÖÏÀ¦—.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(§²Ô®8¸ó¹¢—.
+Q
+java:S11433"4Remove this break statement from this finally block.(›ûä·8æÇ¨¹—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô»’8…ª¶¦—.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÏÊÔå8µ£Â¦—.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Ü‘ªûÿÿÿÿ8æÇ¨¹—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÖáÿÿÿÿÿ8 ƒî¦—.
+m	java:S128>"LEnd this switch case with an unconditional break, return or throw statement.(ÌÊëÎüÿÿÿÿ8æÇ¨¹—.

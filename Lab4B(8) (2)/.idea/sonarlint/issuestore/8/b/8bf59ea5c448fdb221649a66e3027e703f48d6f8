@@ -1,0 +1,79 @@
+
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ÕÙ´¸8³‹À.
+O
+java:S1199F"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8³‹À.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¨¹óúÿÿÿÿ8³‹À.
+z
+java:S2737¿"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ8î€ïÄ—.
+J
+java:S1199J"-Extract this nested code block into a method.(ÎŞèº8³‹À.
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(æß¿ûÿÿÿÿ8ú¦ÆÄ—.
+o
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(—Ã×8ğìÔÂ—.
+{	java:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8§ñ¬Å—.
+M
+java:S2093†"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ê½åÂ—.
+z	java:S135z"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¥…ÖÂ—.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ßµÛÈ8³‹À.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(¤§Øıÿÿÿÿ8È·ÜÀ—.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ÜÒª«8³‹À.
+X
+java:S1119y";Refactor the code to remove this label and the need for it.(Æ›ì8³‹À.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(É£ “8®°‰À.
+}
+java:S1488•"ZImmediately return this expression instead of assigning it to the temporary variable "tr".(‚¢Ç‚øÿÿÿÿ8§ñ¬Å—.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(±ôÖ÷úÿÿÿÿ8ˆ¯ÛÀ—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°šŒš8ÊÈ¿½.
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(â¶Û„8§ñ¬Å—.
+O
+java:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8ÊÈ¿½.
+m	java:S128N"LEnd this switch case with an unconditional break, return or throw statement.(Í‡¬‰úÿÿÿÿ8³‹À.
+X
+java:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÒÔ€Å—.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(±ƒëÉÿÿÿÿÿ8˜•Ù¿.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(”‘¿‰úÿÿÿÿ8ÅÑÆÄ—.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ÕÙ´¸8³‹À.
+X
+java:S1141¼"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8î€ïÄ—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«ÃÄ8íÑÕÂ—.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÊÈ¿½.
+o
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(×ÎD8Ğ®İÃ—.
+O
+java:S1199g"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8³‹À.
+k
+java:S1192¶"HDefine a constant instead of duplicating this literal "not int" 4 times.(üäù§ûÿÿÿÿ8¯å¥Å—.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¤€ÄØ8çôÓ¿.
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(£ƒ¹­øÿÿÿÿ8³‹À.
+O
+java:S1199N"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8³‹À.
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(ÎœË‹8íÑÕÂ—.
+O
+java:S1199_"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8³‹À.
+Y
+java:S1119å";Refactor the code to remove this label and the need for it.(Æ›ì8§ñ¬Å—.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Ğçó8³‹À.
+>
+java:S1116j"Remove this empty statement.(ôŸìúÿÿÿÿ8³‹À.
+O
+java:S1199&"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8 Å¿.
+O
+java:S1199""-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ÊÈ¿½.
+D
+java:S2189A""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÊÈ¿½.
+z
+java:S2737Ò"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ8ÒÔ€Å—.
+J
+java:S1199c"-Extract this nested code block into a method.(ÎŞèº8³‹À.
+D
+java:S2189Z""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8³‹À.
+R
+java:S1143"4Remove this break statement from this finally block.(›ûä·8íÑÕÂ—.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(³„Ÿ¹ûÿÿÿÿ8íÑÕÂ—.
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(î£¬­ÿÿÿÿÿ8µ·âÄ—.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ê­»õùÿÿÿÿ8è ÕÂ—.
+g	java:S1288"LEnd this switch case with an unconditional break, return or throw statement.(Êğò78³‹À.
+m	java:S128g"LEnd this switch case with an unconditional break, return or throw statement.(Í‡¬‰úÿÿÿÿ8³‹À.
+>
+java:S1116Q"Remove this empty statement.(ôŸìúÿÿÿÿ8³‹À.

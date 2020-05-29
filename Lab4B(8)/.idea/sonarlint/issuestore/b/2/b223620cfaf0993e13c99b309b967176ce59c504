@@ -1,0 +1,26 @@
+
+v
+java:S1450"ZRemove the "inputStream" field and declare it as a local variable in the relevant methods.(©Îƒm8ˆØ¬­›.
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(æšÿŠıÿÿÿÿ8Äö¬­›.
+y
+java:S2629-"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¯õŸ°8Äö¬­›.
+T
+java:S2629:"7Use the built-in formatting to construct this argument.(«²ğŞ8Ëî­­›.
+x
+java:S1450"[Remove the "outputStream" field and declare it as a local variable in the relevant methods.(ò¡ˆ8™Éä­›.
+a
+java:S21473"DCombine this catch with the one at line 48, which has the same body.(ü¨áé8ˆØ¬­›.
+^
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(¯õŸ°8Äö¬­›.
+^
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(«²ğŞ8Ëî­­›.
+
+java:S1319E"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯û‡Ğ8ˆØ¬­›.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óĞññ8ö©¸.
+~
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(æšÿŠıÿÿÿÿ8Äö¬­›.
+W
+java:S2209>"5Change this instance-reference to a static reference.(Úß©úÿÿÿÿ8ÒÑ°¯¤.
+R
+java:S2209B"5Change this instance-reference to a static reference.(õÿú”8ÒÑ°¯¤.

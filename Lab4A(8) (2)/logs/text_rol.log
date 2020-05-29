@@ -1,0 +1,84 @@
+2020-04-13 19:53:18 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-04-13 19:53:35 [main] ERROR by.bsu.dao.Dao - java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 19:53:35 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 19:53:53 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 19:53:53 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 19:54:02 [main] ERROR by.bsu.dao.Dao - java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 19:54:53 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-04-13 19:54:53 [main] ERROR by.bsu.dao.Dao - java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 19:54:53 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 19:55:54 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@156b88f5
+2020-04-13 19:56:33 [main] ERROR by.bsu.dao.Dao - java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 19:56:40 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 19:58:00 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 19:58:00 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 19:58:22 [main] ERROR by.bsu.dao.Dao - java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 19:59:41 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-04-13 19:59:52 [main] ERROR by.bsu.dao.Dao - java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 19:59:52 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 20:01:06 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 20:02:02 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 20:03:09 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 20:03:27 [main] INFO  by.bsu.managers.PointManager - file now is empty
+2020-04-13 20:04:31 [main] ERROR by.bsu.dao.Dao - java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 21:40:49 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:45:35 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:46:24 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:47:00 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:48:43 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:49:26 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:55:10 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 21:55:46 [main] ERROR by.bsu.dao.Dao - java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 21:56:58 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-13 21:57:24 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-13 21:57:24 [main] ERROR by.bsu.dao.Dao - java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: by.bsu.figure.Point
+2020-04-13 23:36:57 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-13 23:37:06 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-04-13 23:37:43 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-13 23:37:43 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-13 23:37:59 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-13 23:38:11 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-13 23:38:28 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-13 23:38:28 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:09:57 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:09:57 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:10:10 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-14 08:10:26 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:10:26 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:13:08 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:13:08 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:13:14 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-14 08:13:14 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-14 08:13:31 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@69997e9d
+2020-04-14 08:13:31 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:14:43 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:14:43 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:15:09 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:15:09 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:19:34 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:19:34 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 08:19:44 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-14 08:20:04 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-04-14 08:20:04 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 10:23:25 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@446293d
+2020-04-14 10:23:25 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 10:24:14 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-14 10:24:14 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-14 10:24:33 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-14 10:24:33 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-14 10:24:43 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4d465b11
+2020-04-14 10:24:43 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-14 10:24:49 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/line.dat (No such file or directory)
+2020-04-14 10:25:09 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-04-14 10:25:25 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-14 10:25:25 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-04-18 11:20:16 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@446293d
+2020-04-18 11:20:16 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-18 11:20:39 [main] INFO  by.bsu.service.Service - rotate successfully
+2020-04-18 11:20:39 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-18 11:21:47 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@446293d
+2020-04-18 11:21:47 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-18 11:22:39 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/point.dat (No such file or directory)
+2020-04-18 11:22:55 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-05-29 12:36:28 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4d02f94e
+2020-05-29 12:36:28 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully

@@ -1,0 +1,112 @@
+2020-03-15 11:16:19 [main] INFO  by.bsu.Main - 123
+2020-03-23 15:44:30 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/train.dat (No such file or directory)
+2020-03-23 15:47:24 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/train.dat (No such file or directory)
+2020-03-23 15:50:26 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/train.dat (No such file or directory)
+2020-03-23 15:52:17 [main] INFO  by.bsu.dao.Dao - Train №: 3fe166d7-cc98-40f7-89db-1b02eb80140d
+Traction: Locomotive[speed=120, engine=DIESEL]
+Number of waggons: 2 added
+2020-03-23 15:53:49 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/train.dat (No such file or directory)
+2020-03-23 15:54:22 [main] INFO  by.bsu.dao.Dao - Train №: c9a29410-dfa9-4b78-beb7-ff29f60cc5e1
+Traction: Locomotive[speed=120, engine=PETROL]
+Number of waggons: 2 added
+2020-03-23 15:54:25 [main] ERROR by.bsu.dao.Dao - java.io.FileNotFoundException: data/train.dat (No such file or directory)
+2020-03-23 15:55:36 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-03-23 15:56:12 [main] INFO  by.bsu.dao.Dao - Train №: cf9e8326-a35d-4158-929a-8789c93b632a
+Traction: Locomotive[speed=120, engine=DIESEL]
+Number of waggons: 2 added
+2020-03-23 15:56:23 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-03-23 15:56:47 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@29d89d5d
+2020-03-23 15:56:47 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:39:01 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-03-23 17:40:03 [main] INFO  by.bsu.dao.Dao - Passenger{name='Dima', passengerID=123} added
+2020-03-23 17:40:12 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-03-23 17:40:14 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-03-23 17:40:16 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@7133da86
+2020-03-23 17:40:16 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:45:35 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@71def8f8
+2020-03-23 17:45:35 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:45:42 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-03-23 17:46:22 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-03-23 17:46:28 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@169e6180
+2020-03-23 17:46:28 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:47:49 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-03-23 17:47:50 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@7205765b
+2020-03-23 17:47:50 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:49:55 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-03-23 17:49:58 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@2b48a640
+2020-03-23 17:49:58 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:50:37 [main] INFO  by.bsu.dao.Dao - Train №: 9296be5c-4bad-47c3-a3bf-9c2f287c7051
+Traction: Locomotive[speed=1234, engine=ELECTRIC_MOTOR]
+Number of waggons: 2 added
+2020-03-23 17:50:55 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-03-23 17:51:00 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@7bd4937b
+2020-03-23 17:51:00 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 17:51:07 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-03-23 18:03:04 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3514a4c0
+2020-03-23 18:03:04 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:04:24 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3514a4c0
+2020-03-23 18:04:24 [main] ERROR by.bsu.dao.Dao - java.io.InvalidClassException: by.bsu.model.entity.PassengerWaggon; local class incompatible: stream classdesc serialVersionUID = -4514454213344851427, local class serialVersionUID = -1447930754318616819
+2020-03-23 18:04:54 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-03-23 18:04:54 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:05:41 [main] INFO  by.bsu.dao.Dao - Train №: 01866eaf-dec3-4c71-9bc0-162616e8de25
+Traction: Locomotive[speed=123, engine=ELECTRIC_MOTOR]
+Number of waggons: 2
+Waggons: [PassengerWaggon[numberOfSeats=123, comfort=VIP, passengers=[Passenger{name='Dima', passengerID=123}]], PassengerWaggon[numberOfSeats=12, comfort=VIP, passengers=[Passenger{name='Dima', passengerID=123}]]] added
+2020-03-23 18:05:49 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-03-23 18:06:05 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3514a4c0
+2020-03-23 18:06:05 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:14:34 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-03-23 18:14:34 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:14:34 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-03-23 18:14:34 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:15:31 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-03-23 18:15:31 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:15:31 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-03-23 18:15:31 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:15:32 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@71def8f8
+2020-03-23 18:15:32 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:15:34 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@383bfa16
+2020-03-23 18:15:34 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:16:12 [main] INFO  by.bsu.dao.Dao - Train №: 1ded3c2b-5580-4707-b73d-8b78f6e3266c
+Traction: Locomotive[speed=234, engine=TURBOSHAFT]
+Number of waggons: 2
+Waggons: [PassengerWaggon[numberOfSeats=32, comfort=LUXE, passengers=[Passenger{name='Dima', passengerID=123}]], PassengerWaggon[numberOfSeats=12, comfort=VIP, passengers=[Passenger{name='Dima', passengerID=123}]]] added
+2020-03-23 18:16:15 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-03-23 18:16:15 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@434a63ab
+2020-03-23 18:16:15 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:16:15 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3ee37e5a
+2020-03-23 18:16:15 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-23 18:26:36 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-03-23 18:26:36 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-23 18:26:36 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-03-23 18:26:36 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:17:52 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-03-28 09:17:52 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-28 09:17:52 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-03-28 09:17:52 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:18:12 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@71def8f8
+2020-03-28 09:18:12 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:19:10 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-03-28 09:19:10 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57cf54e1
+2020-03-28 09:19:10 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-28 09:19:10 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@5b03b9fe
+2020-03-28 09:19:10 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:19:13 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@37d4349f
+2020-03-28 09:19:13 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-03-28 09:20:38 [main] INFO  by.bsu.dao.Dao - Passenger{name='34', passengerID=21} added
+2020-03-28 09:20:45 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-03-28 09:20:45 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@17497425
+2020-03-28 09:20:45 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:20:45 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@f0da945
+2020-03-28 09:20:45 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:20:48 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4803b726
+2020-03-28 09:20:48 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:21:00 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-03-28 09:21:00 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@49049a04
+2020-03-28 09:21:00 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-03-28 09:21:00 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@71a8adcf
+2020-03-28 09:21:00 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-05-29 12:31:17 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4de4b452
+2020-05-29 12:31:17 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-05-29 12:31:17 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@5fbdfdcf
+2020-05-29 12:31:17 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully

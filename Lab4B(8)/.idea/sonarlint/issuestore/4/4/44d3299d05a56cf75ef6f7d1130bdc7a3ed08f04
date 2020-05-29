@@ -1,0 +1,33 @@
+
+c
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(æšÿŠıÿÿÿÿ8ÀÛ¬›.
+Z
+java:S21473"DCombine this catch with the one at line 48, which has the same body.(ü¨áé
+W
+java:S1128";Remove this unused import 'by.bsu.model.entity.Locomotive'.(‚§±8Í„é¬›.
+`
+java:S1128">Remove this unused import 'by.bsu.model.entity.RailTransport'.(¥»èåûÿÿÿÿ8Ìàî¬›.
+M
+java:S2629:"7Use the built-in formatting to construct this argument.(«²ğŞ
+x
+java:S1450"[Remove the "outputStream" field and declare it as a local variable in the relevant methods.(ò¡ˆ8¨Š“¬›.
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+o
+java:S1450"ZRemove the "inputStream" field and declare it as a local variable in the relevant methods.(©Îƒm
+~
+java:S2629 "\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(æšÿŠıÿÿÿÿ8ÀÛ¬›.
+W
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(«²ğŞ
+Q
+java:S1144="/Remove this unused private "saveSerial" method.(ùÙöşÿÿÿÿ8—­©­›.
+W
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(¯õŸ°
+r
+java:S2629-"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¯õŸ°
+‹
+java:S1319A"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( ®Êæÿÿÿÿÿ
+Y
+java:S1128"7Remove this unused import 'by.bsu.model.entity.Entity'.(úëª¡øÿÿÿÿ8Ü˜–­›.
+W
+java:S2209>"5Change this instance-reference to a static reference.(Úß©úÿÿÿÿ8ÑÑ°¯¤.

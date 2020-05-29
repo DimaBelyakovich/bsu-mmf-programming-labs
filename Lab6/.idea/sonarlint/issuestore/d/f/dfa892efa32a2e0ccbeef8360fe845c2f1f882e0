@@ -1,0 +1,34 @@
+
+O
+java:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8æŸ—™’.
+O
+java:S11991"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8¯’÷›—.
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(­±º‡8¦¨”™’.
+O
+java:S1199R"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8ÿš˜œ—.
+O
+java:S1199L"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ÿš˜œ—.
+O
+java:S1199Z"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8ÿš˜œ—.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(åªÁ8¯’÷›—.
+O
+java:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8¯’÷›—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñŸ±Áşÿÿÿÿ8æŸ—™’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àşò€şÿÿÿÿ8¯’÷›—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à®¢ùÿÿÿÿ8¯’÷›—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›„Ç‰ûÿÿÿÿ8æŸ—™’.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¯’÷›—.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ŠäË8ÿš˜œ—.
+O
+java:S1199D"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8ÿš˜œ—.
+J
+java:S1199V"-Extract this nested code block into a method.(ÎŞèº8ÿš˜œ—.
+]
+java:S1119";Refactor the code to remove this label and the need for it.(ê™¿‘ıÿÿÿÿ8æŸ—™’.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(§ë¹8¯’÷›—.
+X
+java:S1119";Refactor the code to remove this label and the need for it.(Æ›ì8æŸ—™’.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(­Òµ©ûÿÿÿÿ8¯’÷›—.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(§ë¹8ÿš˜œ—.

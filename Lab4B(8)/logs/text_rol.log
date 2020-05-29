@@ -1,0 +1,105 @@
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - 3 objects SAVED successfully
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3cebbb30
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@12aba8be
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:22 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@290222c1
+2020-04-14 15:34:22 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - 3 objects SAVED successfully
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4efac082
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@6bd61f98
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:28 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@48aca48b
+2020-04-14 15:34:28 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:35:07 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@71def8f8
+2020-04-14 15:35:07 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:35:14 [main] ERROR by.bsu.Main - Exceptions.NotValidException: not int in id
+2020-04-14 15:35:16 [main] INFO  by.bsu.dao.Dao - Passenger{name='dww', passengerID=21} added
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - 4 objects SAVED successfully
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@614ca7df
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - 4 objects LOADED successfully
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4738a206
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-25 10:55:18 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-04-25 10:55:18 [main] INFO  by.bsu.dao.Dao - 4 objects LOADED successfully
+2020-04-25 10:55:18 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-04-25 10:55:18 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-25 10:55:48 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-25 10:55:48 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:55:25 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:55:25 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:55:41 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:55:46 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:58:01 [main] INFO  by.bsu.dao.Dao - Train №: 6dcebe43-908e-4b0d-9e5e-89f4dde60f73
+Traction: Locomotive[speed=200, engine=TURBOSHAFT]
+Number of waggons: 4
+Waggons: [PassengerWaggon[numberOfSeats=34, comfort=COUPE, passengers=[]], PassengerWaggon[numberOfSeats=24, comfort=LUXE, passengers=[]], PassengerWaggon[numberOfSeats=10, comfort=VIP, passengers=[]], PassengerWaggon[numberOfSeats=11, comfort=VIP, passengers=[]]] added
+2020-04-26 10:58:10 [main] INFO  by.bsu.dao.Dao - 1 objects SAVED successfully
+2020-04-26 10:58:10 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:58:10 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@2c35e847
+2020-04-26 10:58:10 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 10:58:26 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 10:58:26 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3fb1549b
+2020-04-26 10:58:26 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 10:58:29 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-04-26 10:58:29 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 11:05:25 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 11:05:25 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3fb1549b
+2020-04-26 11:05:25 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 11:05:30 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-04-26 11:05:30 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 11:06:54 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 11:06:54 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3fb1549b
+2020-04-26 11:06:54 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 11:07:08 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-04-26 11:07:08 [main] INFO  by.bsu.dao.Dao - 1 objects LOADED successfully
+2020-04-26 11:07:10 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 11:07:52 [main] ERROR by.bsu.Main - java.lang.IllegalArgumentException: No enum constant by.bsu.model.ComfortLevel.VOP
+2020-04-26 11:07:52 [main] INFO  by.bsu.dao.Dao - Train №: b6117802-f3b7-4aef-80a8-0fd4c243979a
+Traction: Locomotive[speed=150, engine=DIESEL]
+Number of waggons: 2
+Waggons: [PassengerWaggon[numberOfSeats=50, comfort=ECONOMY, passengers=[]], PassengerWaggon[numberOfSeats=10, comfort=VIP, passengers=[]]] added
+2020-04-26 11:08:16 [main] INFO  by.bsu.dao.Dao - 2 objects SAVED successfully
+2020-04-26 11:08:16 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 11:08:16 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@e15b7e8
+2020-04-26 11:08:16 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-26 11:08:32 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 11:08:32 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3fb1549b
+2020-04-26 11:08:32 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-26 11:08:34 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@bd4dc25
+2020-04-26 11:08:34 [main] INFO  by.bsu.dao.Dao - 2 objects LOADED successfully
+2020-04-26 12:02:35 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 12:02:35 [main] INFO  by.bsu.dao.TrainDao - java.io.ObjectInputStream@3fb1549b
+2020-04-26 12:02:35 [main] ERROR by.bsu.dao.TrainDao - java.io.InvalidClassException: by.bsu.model.entity.Train; local class incompatible: stream classdesc serialVersionUID = -2884846445699446035, local class serialVersionUID = 218141968540433798
+2020-04-26 12:03:45 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 12:03:45 [main] ERROR by.bsu.dao.TrainDao - java.io.EOFException
+2020-04-26 12:03:48 [main] ERROR by.bsu.dao.TrainDao - java.io.EOFException
+2020-04-26 12:03:49 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 12:04:33 [main] INFO  by.bsu.dao.TrainDao - Train №: d3a2e8ed-29da-463a-8f96-1f238d66245d
+Traction: Locomotive[speed=140, engine=DIESEL]
+Number of waggons: 3
+Waggons: [PassengerWaggon[numberOfSeats=10, comfort=VIP, passengers=[]], PassengerWaggon[numberOfSeats=10, comfort=VIP, passengers=[]], PassengerWaggon[numberOfSeats=10, comfort=VIP, passengers=[]]] added
+2020-04-26 12:04:35 [main] INFO  by.bsu.dao.TrainDao - 1 objects SAVED successfully
+2020-04-26 12:04:35 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-04-26 12:04:35 [main] INFO  by.bsu.dao.TrainDao - java.io.ObjectInputStream@5d7148e2
+2020-05-24 12:04:19 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-05-24 12:04:19 [main] INFO  by.bsu.dao.TrainDao - java.io.ObjectInputStream@6f46426d
+2020-05-24 12:04:42 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-05-24 12:04:42 [main] ERROR by.bsu.dao.TrainDao - java.io.EOFException
+2020-05-24 12:04:46 [main] ERROR by.bsu.dao.TrainDao - java.io.EOFException
+2020-05-24 12:04:54 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-05-24 12:05:31 [main] ERROR by.bsu.Main - java.lang.IllegalArgumentException: No enum constant by.bsu.model.ComfortLevel.EQW
+2020-05-24 12:05:31 [main] INFO  by.bsu.dao.TrainDao - Train №: eda2875c-a1ae-4eee-9ad1-0ebce7e03b75
+Traction: Locomotive[speed=32, engine=DIESEL]
+Number of waggons: 1
+Waggons: [PassengerWaggon[numberOfSeats=23, comfort=LUXE, passengers=[]]] added
+2020-05-24 12:05:42 [main] INFO  by.bsu.dao.TrainDao - 1 objects SAVED successfully
+2020-05-24 12:05:42 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-05-24 12:05:42 [main] INFO  by.bsu.dao.TrainDao - java.io.ObjectInputStream@74751b3
+2020-05-24 12:06:11 [main] ERROR by.bsu.dao.Dao - java.io.EOFException
+2020-05-24 12:06:11 [main] INFO  by.bsu.dao.TrainDao - java.io.ObjectInputStream@6f46426d

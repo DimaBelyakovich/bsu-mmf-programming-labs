@@ -1,0 +1,25 @@
+
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡΅Ι
+W
+java:S3457("AFormat specifiers should be used instead of string concatenation.(―υ°
+‹
+java:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( ®Κζÿÿÿÿÿ
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ζÿύÿÿÿÿ
+q
+java:S1450"[Remove the "outputStream" field and declare it as a local variable in the relevant methods.(ς΅
+r
+java:S2629("\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(―υ°
+M
+java:S26295"7Use the built-in formatting to construct this argument.(«²πή
+o
+java:S1450"ZRemove the "inputStream" field and declare it as a local variable in the relevant methods.(©Ξƒm
+w
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ζÿύÿÿÿÿ
+Z
+java:S2147."DCombine this catch with the one at line 43, which has the same body.(ό¨αι
+W
+java:S34575"AFormat specifiers should be used instead of string concatenation.(«²πή
+8
+java:S2326"K is not used in the class.(ψƒο8Ζ†κ».

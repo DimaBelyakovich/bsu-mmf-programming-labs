@@ -1,0 +1,18 @@
+public class Reader {
+/*dfkjnfknznv*/
+///sfadfdsafsad
+    private static String poem = "";
+    private static Logger logger = LogManager.getLogger();
+
+    public static String reader(File file){
+        try(Scanner fin = new Scanner(file)) {
+            while(fin.hasNext()){
+                poem += fin.next() + " ";
+            }
+        } catch (FileNotFoundException e) {
+            logger.error(e);
+        }finally {
+            return poem;
+        }
+    }
+}

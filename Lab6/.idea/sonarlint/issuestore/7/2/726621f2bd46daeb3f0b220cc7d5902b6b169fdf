@@ -1,0 +1,25 @@
+
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ú¦¤¨ıÿÿÿÿ8à´ı†’.
+O
+java:S11994"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8“Ÿ†ı‘.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¥”ì¿ùÿÿÿÿ8à´ı†’.
+O
+java:S1199T"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8ŠÙ‡’.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘™‘üÿÿÿÿ8ùĞ£‘’.
+>	java:S131G""Add a default case to this switch.(¨ÕÉ8à´ı†’.
+O
+java:S1199O"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8à´ı†’.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ü’Í¥8×¸„‡’.
+O
+java:S1199H"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8à´ı†’.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ø—â¸8ª‡öü‘.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÄåªÕ8à´ı†’.
+O
+java:S1199("-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8íõñü‘.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(£Œ–¯8Êãêü‘.
+W
+java:S1119>";Refactor the code to remove this label and the need for it.(ÏËÕ48Ÿòà†’.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¢·¡Š8öì¯†’.
+X
+java:S1119#";Refactor the code to remove this label and the need for it.(™ÏŸ¹8Â”êü‘.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ãÒÄªøÿÿÿÿ8îÓûü‘.

@@ -1,0 +1,9 @@
+
+G
+java:S1068"+Remove this unused "scanner" private field.(∑∏„8Ÿ‹À∑õ.
+]	java:S125"<This block of commented-out lines of code should be removed.(üËòù¸ˇˇˇˇ8È∆À∑õ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÚäÜ8ç±ı∑õ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„Äáí8¨é‘∑õ.
+G
+java:S1068"*Remove this unused "logger" private field.(çÆñ∫8úﬁÎ¬ô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îìÓÄ8Â◊ø∑õ.

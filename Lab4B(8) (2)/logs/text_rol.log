@@ -1,0 +1,27 @@
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - 3 objects SAVED successfully
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@3cebbb30
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@12aba8be
+2020-04-14 15:34:19 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:22 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@290222c1
+2020-04-14 15:34:22 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - 3 objects SAVED successfully
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4efac082
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@6bd61f98
+2020-04-14 15:34:26 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:28 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@48aca48b
+2020-04-14 15:34:28 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@d29f28
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@57d7f8ca
+2020-04-14 15:34:57 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:35:07 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@71def8f8
+2020-04-14 15:35:07 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
+2020-04-14 15:35:14 [main] ERROR by.bsu.Main - Exceptions.NotValidException: not int in id
+2020-04-14 15:35:16 [main] INFO  by.bsu.dao.Dao - Passenger{name='dww', passengerID=21} added
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - 4 objects SAVED successfully
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@614ca7df
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - 4 objects LOADED successfully
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - java.io.ObjectInputStream@4738a206
+2020-04-14 15:35:17 [main] INFO  by.bsu.dao.Dao - 3 objects LOADED successfully
